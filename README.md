@@ -11,7 +11,7 @@ Only tested on Raspberry Pi OS, but should work other LXDE Linux system.
 mkdir -p $HOME/.themes && cd $HOME/.themes
 git clone https://github.com/cycool29/hacker-theme-linux.git
 ```
-Then use `lxappearance to apply the theme:
+Then use `lxappearance` to apply the theme:
 
 1. Launch `lxappearance` from your terminal.
 
